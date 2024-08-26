@@ -1,0 +1,7 @@
+DA0: Data Access Object
+
+//Select: 			Lấy tất cả các đối tượng
+// Select by id: 	Lấy đối tượng theo ID
+// insert: 			Thêm một đối tượng
+//	delete:			Xóa một đối tượng
+// update:			Cập nhật đối tượng
